@@ -7,7 +7,7 @@ const App = () => {
     <>
     <main>x
     <h2> TypeScipt Todo</h2>
-    <AddTodo/>
+    <AddTodo/> 
     <Todo/>
     </main>
     </>
